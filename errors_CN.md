@@ -7,13 +7,13 @@
 ```javascript
 {
   "code":-1121,
-  "msg":"Invalid symbol."
+  "msg":"valid symbol."
 }
 ```
 
 ## 10xx - 服务器或网络问题
-#### -1000 未知错误
- * 未知错误
+#### -1000 doğgu cevap知错误
+ *
 
 #### -1001 连接断开
  * 通常是一个内部错误，一般重试即可解决。
